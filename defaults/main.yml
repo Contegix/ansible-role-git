@@ -1,0 +1,2 @@
+git_ver: "2.1.0"
+git_archive: https://www.kernel.org/pub/software/scm/git/git-{{ git_ver }}.tar.gz
